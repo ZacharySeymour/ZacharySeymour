@@ -1,10 +1,10 @@
 # Hello!! 
 
 ## 🤖 About Me
-- 👋 Hi, I’m @ZacharySeymour, an early career analyst trying to transition into Data Scientist. I graduated with a B.S. in Computer Science and Management from Tulane University in 2020 and recently graduated from MIT's Applied Data Science Program. 
+- 👋 Hi, I’m @ZacharySeymour, an early career analyst trying to transition into Data Science. I graduated with a B.S. in Computer Science and Management from Tulane University in 2020 and recently graduated from MIT's Applied Data Science Program. 
 - 👀 I’m interested in working on new Python and SQL projects to increase my knowledgebase.
-- 🌱 I’m currently using my recent professional certificate from MIT to explore various data science projects including Predictive Analysis, Recommendation Systems, and Classification Models. I am fascinated by data science and the various brances, and am exploring new concepts to expand my portfolio. I love Python, and have continued to increase my knoledgebase as I learn new tools and libraries. 
-- 💞️ Although exploring tech is a main hobby of mine, I also enjoy additional hobbies. My hobbies include reading, working out, video games, and streaming on Twitch. I also love Photography and hope to get back into editing and posting pictures from my adventures. 
+- 🌱 I’m currently using my recent professional certificate from MIT to explore various data science projects including Predictive Analysis, Recommendation Systems, and Classification Models. I am fascinated by data science and the various branches and am exploring new concepts to expand my portfolio. I love Python and have continued to increase my knoledgebase as I learn new tools and libraries. 
+- 💞️ Although exploring tech is a main hobby of mine, I also enjoy reading, working out, video games, and streaming on Twitch. I love Photography and hope to get back into editing and posting pictures from my adventures. 
 - 📫 How to reach me: Check out my LinkedIn or gmail below and reach out!
 
 ## 👩‍💻 Skills
