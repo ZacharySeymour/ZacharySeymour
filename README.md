@@ -1,3 +1,4 @@
+# Hello!! 
 
 ## About Me
 - 👋 Hi, I’m @ZacharySeymour, an early career analyst trying to transition into Data Scientist. I graduated with a B.S. in Computer Science and Management from Tulane University in 2020 and recently graduated from MIT's Applied Data Science Program. 
